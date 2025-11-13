@@ -1,4 +1,9 @@
 {
   "owners": [7088650583],
-  "admins": []
+  "admins": [],
+  "vips": [],
+  "users": {},
+  "limits": {},
+  "welcomeMessages": {},
+  "settings": {}
 }
